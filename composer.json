@@ -1,6 +1,6 @@
 {
     "name": "cois-io/m2d-nginx",
-    "description": "Nginx@1.11.1 custom holding vHost, default magento vHost Docker build",
+    "description": "🍀 Nginx@1.11.1 custom holding vHost, default magento vHost Docker build",
     "type": "m2d-build",
     "license": "Apache-2.0",
     "authors": [
